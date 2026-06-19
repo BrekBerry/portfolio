@@ -1,9 +1,5 @@
 body {
-  background-image: url("bg.wepd");
-  background-size: cover;       /* Remplit tout l'écran */
-  background-position: center;  /* Centre l'image */
-  background-repeat: no-repeat; /* Évite la répétition */
-  min-height: 100vh;
+background-color: black;
    
 }
 
@@ -13,6 +9,9 @@ body {
   height: 200px;
   border-radius: 50%;
   object-fit: cover;
+}
 
 
+#texte {
+    color: white;
 }
