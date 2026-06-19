@@ -1,5 +1,10 @@
 body {
-    background-color: black;
+  background-image: url("bg.wepd");
+  background-size: cover;       /* Remplit tout l'écran */
+  background-position: center;  /* Centre l'image */
+  background-repeat: no-repeat; /* Évite la répétition */
+  min-height: 100vh;
+   
 }
 
 #img {
